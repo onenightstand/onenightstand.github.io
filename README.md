@@ -1,1 +1,1 @@
-One Night Stand Band Website
+Wild Mint Band Website
