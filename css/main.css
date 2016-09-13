@@ -8,6 +8,7 @@ html, body, a, header, nav, p, div, span, img {
 /* Layout */
 
 body {
+  font-family: 'Open Sans', sans-serif;
 	font-weight:400;
 	font-size:16px;
 	color:#505962;
